@@ -1,15 +1,15 @@
 # Chatbot Educacional Interativo com Google Gemini e ADK
 
-# 📚 Visão Geral
+📚 Visão Geral
 Este projeto é um chatbot educacional interativo desenvolvido para auxiliar estudantes do ensino fundamental e médio no aprendizado. Ele utiliza a inteligência artificial do Google Gemini e o Google Agent Developer Kit (ADK) para criar um sistema de agentes colaborativos que guiam os alunos na construção do conhecimento, fornecendo feedback, gerenciando contexto e buscando informações de fontes confiáveis.
 
-# 🎯Objetivos Principais
+🎯Objetivos Principais
 * Aprendizado Ativo: Incentivar o pensamento crítico através de perguntas guiadas, em vez de apenas fornecer respostas prontas.
 * Curadoria de Conteúdo: Sugerir materiais de estudo relevantes e de fontes confiáveis, utilizando a busca do Google.
 * Feedback Personalizado: Oferecer retorno sobre as respostas do estudante e adaptar a estratégia de ensino.
 * Gerenciamento de Fontes: Permitir que os usuários adicionem e gerenciem uma lista de fontes de pesquisa consideradas confiáveis.
 
-# ✨Funcionalidades
+✨Funcionalidades
 O chatbot é composto por uma orquestração de diferentes agentes, cada um com uma função específica:
 
 * Agente de Boas-Vindas: Inicia a interação de forma amigável, explicando o propósito do chatbot.
@@ -21,7 +21,7 @@ O chatbot é composto por uma orquestração de diferentes agentes, cada um com 
 * Agente de Feedback e Adaptação: Analisa as respostas do estudante, fornece feedback e sugere adaptações na estratégia de aprendizado.
 * Agente Anexador de Fontes Interativas: Permite aos usuários gerenciar a lista de fontes confiáveis através de comandos como /adicionar_fonte, /remover_fonte e /listar_fontes.
   
- # ⚙️Como Configurar e Executar
+⚙️Como Configurar e Executar
 Este projeto é ideal para ser executado em um ambiente Google Colab ou Jupyter Notebook.
 
 ** Pré-requisitos **
@@ -54,7 +54,7 @@ Faça Perguntas: Digite sua pergunta sobre qualquer tema do ensino fundamental o
 
 ** Encerrar: ** Digite sair, fim ou adeus para finalizar a conversa.
 
-# 🤝 Contribuição
+🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para:
 * Abrir issues para relatar bugs ou sugerir melhorias.
 * Criar pull requests com novas funcionalidades ou correções.
